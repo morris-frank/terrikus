@@ -2,8 +2,7 @@
 
 <img src="docs/banner.jpg" alt="Terrikus, a painted river valley">
 
-<a href="https://github.com/Soilytix/terrikus/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/Soilytix/terrikus/ci.yml?branch=main&amp;style=flat-square&amp;labelColor=16211B&amp;label=CI" alt="CI"></a>
-<a href="https://github.com/Soilytix/terrikus/actions/workflows/publish.yml"><img src="https://img.shields.io/github/actions/workflow/status/Soilytix/terrikus/publish.yml?branch=main&amp;style=flat-square&amp;labelColor=16211B&amp;label=publish" alt="Publish"></a>
+<a href="https://github.com/morris-frank/terrikus/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/morris-frank/terrikus/ci.yml?branch=main&amp;style=flat-square&amp;labelColor=16211B&amp;label=CI" alt="CI"></a>
 <a href="https://terrikus.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fterrikus.com&amp;style=flat-square&amp;labelColor=16211B&amp;label=terrikus.com&amp;up_color=1AB172" alt="terrikus.com status"></a>
 <img src="https://img.shields.io/badge/chapters-15%20playable-1AB172?style=flat-square&amp;labelColor=16211B" alt="15 playable chapters">
 <img src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE-1AB172?style=flat-square&amp;labelColor=16211B" alt="English and German">
@@ -129,7 +128,7 @@ Chapters 1 and 2 open following the prologue; chapters 3–14 unlock from the va
 Terrikus relies on [mise](https://mise.jdx.dev) for toolchain management.
 
 ```sh
-git clone git@github.com:Soilytix/terrikus.git
+git clone git@github.com:morris-frank/terrikus.git
 cd terrikus
 
 mise run setup # Install tools, dependencies, setup git hooks, and run initial checks
